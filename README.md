@@ -1,2 +1,5 @@
 # gitbasics
-The very basics of git
+The very basics
+of git
+this is not easy
+
